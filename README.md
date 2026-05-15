@@ -77,6 +77,33 @@ While your AI Agent uses these automatically, you can run them manually to keep 
 
 ---
 
+To keep your documentation organized, here is a dedicated **README.md** section specifically for the **ECC (Everything Claude Code)** integration. This explains how the AI's "intelligence" is upgraded for your specific stack.
+
+---
+
+## 🧠 ECC (Everything Claude Code) Integration
+
+**ECC** acts as the "Brain" of this suite. While RTK handles the data volume, ECC injects high-level architectural rules and specialized knowledge into your AI Agent (Google Antigravity). This ensures the AI writes code that follows the best practices of your specific tech stack.
+
+
+### 🛠 How it Works in Antigravity
+
+The setup script automatically deploys **Persona Rules** into your `.agent/rules` (local) and `%USERPROFILE%\.gemini\antigravity\rules` (global) directories.
+
+* **Zero-Config Intelligence:** You don't need to remind the AI you are using Kotlin or Expo; it detects your project files and automatically applies the corresponding ECC rule-set.
+* **Slash Commands:** Enables advanced workflows like `/review` (full code audit) or `/tdd` (Test-Driven Development mode) directly within the Antigravity chat.
+
+### 🔧 Manual Rule Sync
+
+If you add new rules or want to force a refresh of the language intelligence:
+
+```powershell
+# Re-run the ECC installer specifically
+node %TEMP%\ecc_source\scripts\install.js --target antigravity common kotlin flutter react typescript python
+
+```
+
+---
 > **Note:** This suite is intended for power users optimizing high-frequency AI coding sessions. Always run the setup script as an Administrator to ensure System PATH updates are successful.
 
 ```
