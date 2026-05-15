@@ -70,8 +70,8 @@ While your AI Agent uses these automatically, you can run them manually to keep 
 * **Update Global Rules:** If Antigravity stops recognizing RTK, run:
 
 ```powershell
-    rtk init -g --agent antigravity
-    ```
+    rtk init -g --agent antigravity```
+
 *   **Update Binary:** Simply run the `setup.bat` again; it will fetch the latest release from GitHub.
 *   **Verification:** Run `rtk --version` to ensure the system PATH is correctly configured.
 
