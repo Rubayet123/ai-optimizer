@@ -2,10 +2,6 @@
 
 A professional toolkit combining **RTK** and **ECC** to maximize the **Google Antigravity Free Tier**.
 
-## 🛠 Project Components
-- **rtk/**: Global CLI tool to compress terminal output (saves quota).
-- **ecc/**: Central source for agent rules, skills, and workflows.
-
 ---
 # List of all the optimization:
 ---
@@ -203,5 +199,168 @@ Once installed, you don't need to memorize every command. Thanks to progressive 
 * **Keep Your Agent Updated:** To pull newly released ecosystem rules or skills down the road, simply navigate into your project's local `everything-claude-code` folder, execute `git pull`, and re-run your install script from the project root directory [00:10:16].
 
 ```
+
+
+
+
+
+# AI Optimizer Setup 🚀
+
+Optimize the **Google Antigravity Free Tier** using:
+
+* **RTK (Rust Token Killer)** → compresses noisy terminal output
+* **ECC (Everything Claude Code)** → adds reusable AI engineering workflows
+
+---
+
+# ✨ Why Use This?
+
+✅ Lower token usage
+✅ Cleaner debugging
+✅ Faster AI responses
+✅ Better context retention
+✅ Structured AI workflows
+
+---
+
+# 🧠 Install RTK
+
+## 1. Download Installer
+
+[install-rtk.bat](https://github.com/Rubayet123/ai-optimizer/tree/main/rtk/install-rtk.bat?utm_source=chatgpt.com)
+
+## 2. Run as Administrator
+
+Right-click → **Run as Administrator**
+
+## 3. Verify
+
+```bash
+rtk --version
+```
+
+---
+
+# ⚡ RTK Commands
+
+| Command              | What It Does              | Example               |
+| -------------------- | ------------------------- | --------------------- |
+| `rtk gain`           | Show saved tokens & money | `rtk gain`            |
+| `rtk gain --graph`   | 30-day savings graph      | `rtk gain --graph`    |
+| `rtk gain --history` | Compression history       | `rtk gain --history`  |
+| `rtk git status`     | Compact git status        | `rtk git status`      |
+| `rtk git diff`       | Logic-only diff           | `rtk git diff`        |
+| `rtk npm test`       | Show only failed tests    | `rtk npm test`        |
+| `rtk cargo test`     | Cleaner Rust test output  | `rtk cargo test`      |
+| `rtk tsc`            | Group TS errors by file   | `rtk tsc`             |
+| `rtk ls .`           | Optimized folder tree     | `rtk ls .`            |
+| `rtk read file.ts`   | Read file without noise   | `rtk read src/app.ts` |
+
+---
+
+# 🔧 RTK Maintenance
+
+| Action             | Command                           |
+| ------------------ | --------------------------------- |
+| Reinitialize rules | `rtk init -g --agent antigravity` |
+| Update RTK         | `setup.bat`                       |
+| Verify install     | `rtk --version`                   |
+
+---
+
+# 🧩 Install ECC
+
+> Install ECC inside each project folder.
+
+## 1. Open Project
+
+```bash
+cd path/to/project
+```
+
+## 2. Clone ECC
+
+```bash
+git clone https://github.com/affaan-m/everything-claude-code.git
+```
+
+## 3. Install Dependencies
+
+```bash
+cd everything-claude-code
+npm install
+```
+
+## 4. Run Installer
+
+```bash
+cd ..
+./everything-claude-code/install.sh target anti-gravity typescript
+```
+
+Replace `typescript` with:
+
+* `python`
+* other stack profiles
+
+## 5. Restart Antigravity
+
+ECC will auto-load:
+
+* `.agent/skills`
+* `.agent/rules`
+
+---
+
+# ⚙️ ECC Skills
+
+| Skill                   | Purpose                  |
+| ----------------------- | ------------------------ |
+| `/code-architect`       | System architecture      |
+| `/plan`                 | Logic/workflow planning  |
+| `/ui-scaffold`          | Generate responsive UI   |
+| `/state-manager`        | Global state setup       |
+| `/api-builder`          | Build APIs               |
+| `/db-migrator`          | Database migrations      |
+| `/metadata-injector`    | SEO metadata             |
+| `/vitals-audit`         | Core Web Vitals          |
+| `/tdd`                  | Test-driven development  |
+| `/build-error-resolver` | Fix build errors         |
+| `/code-review`          | AI code review           |
+| `/verification-loops`   | Recursive validation     |
+| `/conventional-commits` | Generate commit messages |
+
+---
+
+# 💡 Tips
+
+| Task                         | Best Mode     |
+| ---------------------------- | ------------- |
+| Small edits / CSS tweaks     | Fast Mode     |
+| Architecture / large systems | Planning Mode |
+
+Shortcut:
+
+* `Ctrl + E`
+* `Cmd + E`
+
+---
+
+# 🔄 Update ECC
+
+```bash
+cd everything-claude-code
+git pull
+cd ..
+./everything-claude-code/install.sh target anti-gravity typescript
+```
+
+---
+
+# 📚 Repositories
+
+* [AI Optimizer Repo](https://github.com/Rubayet123/ai-optimizer?utm_source=chatgpt.com)
+* [Everything Claude Code](https://github.com/affaan-m/everything-claude-code?utm_source=chatgpt.com)
+
 
 ```
