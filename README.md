@@ -18,9 +18,8 @@ Clone the repo and run the master setup:
 
 
 
-----
-This is the complete, production-ready `README.md` for your **AI Optimizer Suite**. It is designed to be professional, easy to read, and acts as a manual for your future self.
-
+---
+# List of all the optimization:
 ---
 ## 🧠 1. RTK (Rust Token Killer)
 
