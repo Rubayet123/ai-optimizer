@@ -76,9 +76,6 @@ While your AI Agent uses these automatically, you can run them manually to keep 
 *   **Verification:** Run `rtk --version` to ensure the system PATH is correctly configured.
 
 ---
-
-To keep your documentation organized, here is a dedicated **README.md** section specifically for the **ECC (Everything Claude Code)** integration. This explains how the AI's "intelligence" is upgraded for your specific stack.
-
 ---
 
 ## 🧠 ECC (Everything Claude Code) Integration
