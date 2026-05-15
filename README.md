@@ -8,7 +8,7 @@ A centralized toolkit for optimizing AI-assisted development. This suite reduces
 
 ## 🛠 Installation
 Clone the repo and run the master setup:
-1. `git clone https://github.com/YOUR_USERNAME/ai-optimizer-suite.git`
+1. `git clone https://github.com/Rubayet123/ai-optimizer-suite.git`
 2. Right-click `setup.bat` -> **Run as Administrator**.
 3. Choose your tools from the menu.
 
