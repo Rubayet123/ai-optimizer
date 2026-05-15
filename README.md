@@ -35,7 +35,7 @@ rtk --version
 
 ---
 
-# ⚡ RTK Commands
+## ⚡ RTK Commands
 
 | Command              | What It Does              | Example               |
 | -------------------- | ------------------------- | --------------------- |
@@ -52,7 +52,7 @@ rtk --version
 
 ---
 
-# 🔧 RTK Maintenance
+## 🔧 RTK Maintenance
 
 | Action             | Command                           |
 | ------------------ | --------------------------------- |
@@ -94,13 +94,13 @@ cd ..
 
 *(Note: Replace `typescript` with `python` or your respective language profile if configuring a dedicated backend service).*
 
-# 5: Start a Fresh Session / Restart Antigravity
+## 5: Start a Fresh Session / Restart Antigravity
 
 Reopen your project workspace inside Google Antigravity or launch a new conversation. Antigravity will automatically index the metadata descriptions inside your new local `.agent/skills/` and `.agent/rules/` directories.
 
 ---
 
-# ⚙️ ECC Skills
+## ⚙️ ECC Skills
 
 | Skill                   | Purpose                  |
 | ----------------------- | ------------------------ |
@@ -119,7 +119,7 @@ Reopen your project workspace inside Google Antigravity or launch a new conversa
 | `/conventional-commits` | Generate commit messages |
 
 ---
-# 🔄 Update ECC
+## 🔄 Update ECC
 
 ```bash
 cd everything-claude-code
