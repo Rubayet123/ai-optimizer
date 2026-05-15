@@ -6,7 +6,6 @@ A professional toolkit combining **RTK** and **ECC** to maximize the **Google An
 - **rtk/**: Global CLI tool to compress terminal output (saves quota).
 - **ecc/**: Central source for agent rules, skills, and workflows.
 
-```
 ---
 # List of all the optimization:
 ---
