@@ -1,22 +1,25 @@
 # AI Optimizer Suite 🚀
 
-A centralized toolkit for optimizing AI-assisted development. This suite reduces token costs, improves context accuracy, and streamlines the "Antigravity" workflow.
+A professional toolkit combining **RTK** and **ECC** to maximize the **Google Antigravity Free Tier**.
 
-## Included Tools
-- **RTK (Rust Token Killer):** Compresses terminal output to save ~90% on token usage.
-- **ECC (Error Correction Code):** *Coming Soon* - Automated context fixing and error handling.
+## 🛠 Project Components
+- **rtk/**: Global CLI tool to compress terminal output (saves quota).
+- **ecc/**: Central source for agent rules, skills, and workflows.
+- **setup.bat**: The master installer.
 
-## 🛠 Installation
-Clone the repo and run the master setup:
-1. `git clone https://github.com/Rubayet123/ai-optimizer-suite.git`
-2. Right-click `setup.bat` -> **Run as Administrator**.
-3. Choose your tools from the menu.
+## 🚀 Installation
+1. Clone this repo.
+2. Run `setup.bat` as **Administrator**.
+3. Restart your terminal/IDE.
 
-## Requirements
-- Windows 11
-- PowerShell 5.0+ (Standard)
+## 💡 How to use ECC
 
+### 1. Optimize a New Project
+Go to your project folder (e.g., web or app) and run:
+```powershell
+node C:\tools\ecc-source\scripts\install.js --target antigravity common kotlin flutter react typescript python astro web
 
+```
 
 ---
 # List of all the optimization:
@@ -92,17 +95,4 @@ The setup script automatically deploys **Persona Rules** into your `.agent/rules
 * **Zero-Config Intelligence:** You don't need to remind the AI you are using Kotlin or Expo; it detects your project files and automatically applies the corresponding ECC rule-set.
 * **Slash Commands:** Enables advanced workflows like `/review` (full code audit) or `/tdd` (Test-Driven Development mode) directly within the Antigravity chat.
 
-### 🔧 Manual Rule Sync
-
-If you add new rules or want to force a refresh of the language intelligence:
-
-```powershell
-# Re-run the ECC installer specifically
-node %TEMP%\ecc_source\scripts\install.js --target antigravity common kotlin flutter react typescript python
-
-```
-
 ---
-> **Note:** This suite is intended for power users optimizing high-frequency AI coding sessions. Always run the setup script as an Administrator to ensure System PATH updates are successful.
-
-```
