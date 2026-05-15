@@ -15,7 +15,7 @@ if exist "%ECC_TEMP%" (
 :: Install all your languages
 :: Note: This uses 'node' which comes with VS Code/Node.js installs
 echo [*] Configuring Kotlin, Flutter, React, TypeScript, and Python...
-node "%ECC_TEMP%\scripts\install.js" --target antigravity common kotlin flutter react typescript python
+node "%ECC_TEMP%\scripts\install.js" --target antigravity common kotlin flutter react typescript python web
 
 :: Ensure global availability
 if not exist "%AG_RULES_DIR%" mkdir "%AG_RULES_DIR%"
