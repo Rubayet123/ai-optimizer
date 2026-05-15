@@ -1,6 +1,6 @@
 @echo off
 setlocal enabledelayedexpansion
-title AI Optimizer Suite - Master Setup
+title AI Optimizer Suite - Setup
 
 :: Admin Check
 net session >nul 2>&1
@@ -9,35 +9,21 @@ if %errorLevel% neq 0 (
     pause & exit /b
 )
 
-:menu
-cls
-echo ==========================================
-echo       AI CODE OPTIMIZATION SUITE
-echo ==========================================
-echo  1. Install RTK (Token & Cost Saver)
-echo  2. Install ECC (Kotlin, Flutter, React, TS, Python)
-echo  3. Install EVERYTHING (Full Suite)
-echo  4. Exit
-echo ==========================================
-set /p choice="Select an option (1-4): "
+echo ======================================================
+echo    AI OPTIMIZER SUITE: RTK + ECC (Antigravity)
+echo ======================================================
 
-if "%choice%"=="1" goto install_rtk
-if "%choice%"=="2" goto install_ecc
-if "%choice%"=="3" goto install_all
-if "%choice%"=="4" exit /b
-
-:install_rtk
-call "%~dp0rtk\install-rtk.bat"
-echo [*] RTK Setup Complete.
-pause & goto menu
-
-:install_ecc
-call "%~dp0ecc\install-ecc.bat"
-echo [*] ECC Setup Complete.
-pause & goto menu
-
-:install_all
+:: Run Sub-scripts
 call "%~dp0rtk\install-rtk.bat"
 call "%~dp0ecc\install-ecc.bat"
-echo [SUCCESS] Full Stack Optimization Ready.
-pause & goto menu
+
+echo.
+echo ======================================================
+echo  FULL SUITE READY!
+echo ======================================================
+echo  1. Restart your terminal for PATH changes.
+echo  2. Use 'rtk gain' to monitor Antigravity savings.
+echo  3. Use 'node C:\tools\ecc-source\scripts\install.js' 
+echo     inside your projects for local ECC rules.
+echo ======================================================
+pause
