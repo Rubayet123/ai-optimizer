@@ -63,7 +63,6 @@ While your AI Agent uses these automatically, you can run them manually to keep 
 
 ---
 
-```markdown
 # 🚀 Ultimate Guide: Building Production-Ready Web Apps with Antigravity & Everything Claude Code (ECC)
 
 This tutorial shows you how to legitimately supercharge the free tier of **Google Antigravity** using the **Everything Claude Code (ECC)** toolkit. By embedding these reusable agentic workflows directly into your local project workspace, you transform your AI assistant from a simple code wrapper into a structured, multi-stage engineering pipeline.
