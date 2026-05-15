@@ -1,4 +1,3 @@
----
 # AI Optimizer Setup 🚀
 
 Optimize the **Google Antigravity Free Tier** using:
@@ -22,7 +21,7 @@ Optimize the **Google Antigravity Free Tier** using:
 
 ## 1. Download Installer
 
-[install-rtk.bat](https://github.com/Rubayet123/ai-optimizer/tree/main/rtk/install-rtk.bat?utm_source=chatgpt.com)
+[install-rtk.bat](https://github.com/Rubayet123/ai-optimizer/tree/main/rtk/install-rtk.bat)
 
 ## 2. Run as Administrator
 
@@ -211,8 +210,8 @@ Once installed, you don't need to memorize every command. Thanks to progressive 
 
 # 📚 Repositories
 
-* [AI Optimizer Repo](https://github.com/Rubayet123/ai-optimizer?utm_source=chatgpt.com)
-* [Everything Claude Code](https://github.com/affaan-m/everything-claude-code?utm_source=chatgpt.com)
+* [AI Optimizer Repo](https://github.com/Rubayet123/ai-optimizer)
+* [Everything Claude Code](https://github.com/affaan-m/everything-claude-code)
 
 
 ```
