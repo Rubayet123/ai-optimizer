@@ -198,12 +198,11 @@ Once installed, you don't need to memorize every command. Thanks to progressive 
 * **Toggle Modes Efficiently:** Use **Fast Mode** (`Ctrl + E` or `Cmd + E`) for single-file styling tweaks or quick file additions. Switch to **Planning Mode** when triggering structural workflow tools like `/code-architect` or `/plan` [00:07:23].
 * **Keep Your Agent Updated:** To pull newly released ecosystem rules or skills down the road, simply navigate into your project's local `everything-claude-code` folder, execute `git pull`, and re-run your install script from the project root directory [00:10:16].
 
-```
 
 
 
 
-
+---
 # AI Optimizer Setup 🚀
 
 Optimize the **Google Antigravity Free Tier** using:
