@@ -16,6 +16,17 @@ Optimize the **Google Antigravity Free Tier** using:
 ✅ Structured AI workflows
 
 ---
+## Table of Contents
+
+- [RTK Setup](#-install-rtk)
+- [RTK Commands](#-rtk-commands)
+- [RTK Maintenance](#-rtk-maintenance)
+- [ECC Setup](#-install-ecc)
+- [ECC Skills](#️-ecc-skills)
+- [Update ECC](#-update-ecc)
+
+---
+
 
 # 🧠 Install RTK
 
