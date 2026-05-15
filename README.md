@@ -1,40 +1,21 @@
-# AI Optimizer Suite 🚀
+# AI Optimizer Setup 🚀
 
 A professional toolkit combining **RTK** and **ECC** to maximize the **Google Antigravity Free Tier**.
 
 ## 🛠 Project Components
 - **rtk/**: Global CLI tool to compress terminal output (saves quota).
 - **ecc/**: Central source for agent rules, skills, and workflows.
-- **setup.bat**: The master installer.
-
-## 🚀 Installation
-1. Clone this repo.
-2. Run `setup.bat` as **Administrator**.
-3. Restart your terminal/IDE.
-
-## 💡 How to use ECC
-
-### 1. Optimize a New Project
-Go to your project folder (e.g., web or app) and run:
-```powershell
-node C:\tools\ecc-source\scripts\install.js --target antigravity common kotlin flutter react typescript python astro web
 
 ```
-
 ---
 # List of all the optimization:
 ---
 ## 🧠 1. RTK (Rust Token Killer)
 
+Download the **install-rtk.bat** file > open with administration > install RTK
+https://github.com/Rubayet123/ai-optimizer/tree/main/rtk/install-rtk.bat
+
 RTK acts as a "filter" between your terminal commands and the AI. Instead of sending a 500-line error log to the LLM (which costs money and eats up context), RTK identifies the "signal" and removes the "noise."
-
-### Why it's a Game Changer:
-
-* **Cost Efficiency:** Dramatically lowers the burn rate of API credits.
-* **Better Accuracy:** By removing redundant logs, the AI focuses only on the code that actually needs fixing.
-* **Antigravity Ready:** Automatically integrates with Google Antigravity’s rule system.
-
----
 
 ## ⚡ Useful Commands (Cheatsheet)
 
