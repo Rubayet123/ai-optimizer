@@ -70,15 +70,17 @@ While your AI Agent uses these automatically, you can run them manually to keep 
 * **Update Global Rules:** If Antigravity stops recognizing RTK, run:
 
 ```powershell
-    rtk init -g --agent antigravity```
+    rtk init -g --agent antigravity
+```
 
 *   **Update Binary:** Simply run the `setup.bat` again; it will fetch the latest release from GitHub.
 *   **Verification:** Run `rtk --version` to ensure the system PATH is correctly configured.
 
 ---
+
 ---
 
-## 🧠 ECC (Everything Claude Code) Integration
+## 🧠 2. ECC (Everything Claude Code) Integration
 
 **ECC** acts as the "Brain" of this suite. While RTK handles the data volume, ECC injects high-level architectural rules and specialized knowledge into your AI Agent (Google Antigravity). This ensures the AI writes code that follows the best practices of your specific tech stack.
 
