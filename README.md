@@ -77,19 +77,23 @@ rtk --version
 
 > Install ECC inside each project folder.
 
+To ensure error-free performance, follow these steps using **Git Bash** (recommended for Windows users).
 ## 1. Open Project
+Navigate to your project root directory:
 
 ```bash
 cd path/to/project
 ```
 
 ## 2. Clone ECC
+Download the specialized rules and skills library directly into your project:
 
 ```bash
 git clone https://github.com/affaan-m/everything-claude-code.git
 ```
 
 ## 3. Install Dependencies
+Build the internal automation tools required by the installer:
 
 ```bash
 cd everything-claude-code
@@ -97,6 +101,7 @@ npm install
 ```
 
 ## 4. Run Installer
+Move back to the project root and execute the configuration script.
 
 ```bash
 cd ..
